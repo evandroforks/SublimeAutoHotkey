@@ -50,6 +50,7 @@ AutoHotkey AHK language package for SublimeText including syntax highlighting, c
 search for **`AutoHotkey`** and press <kbd>Enter</kbd>
 
 See also:
+
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
 1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
